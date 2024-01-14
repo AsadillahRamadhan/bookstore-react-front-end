@@ -4,7 +4,7 @@ import { faBook, faUser, faCartShopping, faMagnifyingGlass, faReceipt } from "@f
 export default function Navbar(){
     return (
         <>
-        <nav className="h-20 drop-shadow-lg bg-white text-slate-800 flex items-center sticky top-0 px-10 justify-between">
+        <nav className="h-20 drop-shadow-lg bg-white text-slate-800 flex items-center sticky top-0 px-24 justify-between">
             <div className="flex">
                 <FontAwesomeIcon icon={faBook} size="2xl"/>
                 <h1 className="text-2xl font-bold ms-3">Starbook</h1>

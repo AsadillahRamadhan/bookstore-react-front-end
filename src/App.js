@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <div className='px-10 mt-4'>
+      <div className='px-24 mt-4'>
         <Carousel/>
       </div>
     </div>
